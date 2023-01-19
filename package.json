@@ -1,0 +1,27 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "live Course",
+  
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html", 
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhishek07-tech/Namaste-React-Ji.git"
+  },
+  "author": "Abhishek kalal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhishek07-tech/Namaste-React-Ji/issues"
+  },
+  "homepage": "https://github.com/abhishek07-tech/Namaste-React-Ji#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  },
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
